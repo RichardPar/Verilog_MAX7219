@@ -5,4 +5,4 @@
 It was tested using a Spartan 5 Development board
 
 
-![Module](https://github.com/RichardPar/Verilog_MAX7219/blob/main/max7219Module.png?raw=true)
+![Module](https://github.com/RichardPar/Verilog_MAX7219/blob/main/Module2.png?raw=true)
