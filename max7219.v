@@ -9,7 +9,7 @@
 // Comments: Simple two-stage FSM to write to MAX7219.
 //             'bit_fsm_counter' iterates over the number of bits sending data.
 //             'ctrl_fsm_counter' iterates over the messages to send.
-//             Tested working on Xilinx AC7A35T Arty with MAX6951 and 8 digits.
+//             Tested working on Xilinx development board with MAX7219 and 8 digits.
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
